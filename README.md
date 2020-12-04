@@ -1,5 +1,5 @@
 # E-Commerce
-### [Live Site](https://commerce-js.netlify.app/)
+### [Live Site](https://edise-commerce.netlify.app/)
 
 
 ## Introduction
